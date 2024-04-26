@@ -13,8 +13,9 @@ L_w = 20        # wave lenght <br />
 g = 9.81        # gravity <br />
 π = 3.14        # pi number <br />
 V_w = (g * L_w) / (2 * π)    # wave velocity <br />
-time_values = [0, 0.1, 0.2, 0.3, 1]   # Assuming you want to calculate ζ 
-                                        for specific time values <br />
+time_values = [0, 0.1, 0.2, 0.3, 1]   # Assuming you want to 
+                                       calculate ζ for specific 
+                                       time values <br />
 for t in time_values:
       for x in range(21):  # Assuming x ranges from 0 to 20 
            ζ = ζ_a * math.sin((2 * π / L_w) * (x - (V_w * t)))
