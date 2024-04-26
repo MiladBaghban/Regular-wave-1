@@ -6,7 +6,8 @@ Solution:
 
 <image align="right" alt="Milad" width = "400" src="http://up44.ir/previews/c3c5f7dab58aa78702557eeb7517235e.jpg"> 
     
-<pre>import math     # library of python for calculate the calculation of below <br />
+<pre>import math     # library of python for calculate 
+                  the calculation of below <br />
 ζ_a = 1         # amplitude <br />
 L_w = 20        # wave lenght <br />
 g = 9.81        # gravity <br />
