@@ -16,6 +16,6 @@ V_w = (g * L_w) / (2 * π)    # wave velocity <br />
 time_values = [0, 0.1, 0.2, 0.3, 1]   # Assuming you want to calculate ζ 
                                         for specific time values <br />
 for t in time_values:
-<pre>    for x in range(21):  # Assuming x ranges from 0 to 20 <br />
-           ζ = ζ_a * math.sin((2 * π / L_w) * (x - (V_w * t))) <br />
-           print(f"ζ at t={t:.1f}, x={x}: {ζ:.4f}") <br />
+      for x in range(21):  # Assuming x ranges from 0 to 20 
+           ζ = ζ_a * math.sin((2 * π / L_w) * (x - (V_w * t)))
+           print(f"ζ at t={t:.1f}, x={x}: {ζ:.4f}")
