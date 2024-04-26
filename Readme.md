@@ -4,7 +4,7 @@ Example: It is assumed that L_w = 20 ft and T = 0.25 ft.
 <br />
 Solution: 
 
-<image align="right" alt="Milad" width = "400" src="http://up44.ir/previews/c3c5f7dab58aa78702557eeb7517235e.jpg"> 
+<image align="right" alt="Milad" width = "320" src="http://up44.ir/previews/c3c5f7dab58aa78702557eeb7517235e.jpg"> 
     
 <pre>import math     # library of python for calculate 
                   the calculation of below <br />
