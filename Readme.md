@@ -1,4 +1,4 @@
-<image align="right" alt="Milad" width = "400" src="http://up44.ir/previews/c3c5f7dab58aa78702557eeb7517235e.jpg"> 
+<image align="right" alt="Milad" width = "380" src="http://up44.ir/previews/c3c5f7dab58aa78702557eeb7517235e.jpg"> 
     
 <pre>import math     # library of python for calculate the calculation of below <br />
 ζ_a = 1         # amplitude <br />
